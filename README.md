@@ -1,4 +1,6 @@
-# Job Board UI - Frontend Intern Assignment
+# 💼 Job Board UI
+
+This is a responsive Job Board web application built using **Next.js** and **Tailwind CSS**. It allows users to view job listings, explore detailed job descriptions, and filter jobs by location and tags. The project is powered by a mock API using a local JSON file.
 
 ## Tech Stack:
 - Next.js
