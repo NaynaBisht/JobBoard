@@ -1,6 +1,6 @@
 # Job Board UI - Frontend Intern Assignment
 
-## 🚀 Tech Stack:
+## Tech Stack:
 - Next.js
 - Tailwind CSS
 - Local JSON API
@@ -11,11 +11,25 @@
 - Responsive and styled with Tailwind
 - Dark mode toggle (bonus)
 
-## 📂 Setup Instructions:
+## 📂 Project Structure
+/app → Next.js App Directory
+/components → Reusable UI Components
+/data/jobs.json → Mock job listing data
+/styles → Tailwind & Global styles
+/utils → Utility functions (e.g., getJobById)
+
+## Setup Instructions:
 1. Clone this repo
 2. `npm install`
 3. `npm run dev`
 4. Visit `http://localhost:3000`
 
 ## 💡 My Approach:
-I built the app using Next.js and Tailwind for a clean, responsive UI. Jobs are rendered from a static JSON file, simulating a backend API. The dynamic route handles job details rendering, and a dark mode toggle enhances the UX. The component-based architecture ensures reusability and clarity.
+The goal was to build a clean, intuitive, and responsive Job Board UI that showcases essential job details and smooth navigation between pages. I chose the Next.js App Router for scalability and built the layout using Tailwind CSS for flexibility and quick styling.
+
+The data is sourced from a local mock JSON file, simulating an API call. I implemented dynamic routing for the Job Details page, and included filter functionality (by location & tags) along with a Dark Mode toggle as a bonus. Each component is modular, reusable, and responsive across screen sizes. The project emphasizes clean code, accessibility, and minimal design.
+
+## 🌐 Live Demo
+Deploy the app on Vercel and drop the live link here:  
+🔗 [https://job-board-umber.vercel.app/](https://job-board-umber.vercel.app/)
+
