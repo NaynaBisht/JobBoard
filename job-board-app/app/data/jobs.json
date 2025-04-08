@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer Intern",
+    "company": "TCS Digital",
+    "location": "Remote",
+    "salary": "₹12,000/month",
+    "tags": ["Internship", "Remote", "Tech"],
+    "description": "Assist in enhancing the UI of enterprise web applications using React.js and Tailwind CSS."
+  },
+  {
+    "id": "2",
+    "title": "Content Strategist",
+    "company": "The Times Group",
+    "location": "Mumbai",
+    "salary": "₹6.5 LPA",
+    "tags": ["Full-Time", "Media", "Writing"],
+    "description": "Plan, write, and manage editorial content across digital platforms."
+  },
+  {
+    "id": "3",
+    "title": "Accountant",
+    "company": "Infosys BPM",
+    "location": "Pune",
+    "salary": "₹5 LPA",
+    "tags": ["Full-Time", "Finance"],
+    "description": "Handle accounts receivable and ensure accurate financial records using Tally and Excel."
+  },
+  {
+    "id": "4",
+    "title": "Customer Support Executive",
+    "company": "Zomato",
+    "location": "Delhi",
+    "salary": "₹3.2 LPA",
+    "tags": ["Full-Time", "Support"],
+    "description": "Provide customer assistance and resolve queries over calls and chats."
+  },
+  {
+    "id": "5",
+    "title": "Digital Marketing Intern",
+    "company": "Nykaa",
+    "location": "Remote",
+    "salary": "₹10,000/month",
+    "tags": ["Internship", "Marketing", "Remote"],
+    "description": "Support SEO, paid ads, and social media strategies for e-commerce campaigns."
+  },
+  {
+    "id": "6",
+    "title": "Sales Manager",
+    "company": "HDFC Bank",
+    "location": "Chandigarh",
+    "salary": "₹9 LPA",
+    "tags": ["Full-Time", "Sales", "Finance"],
+    "description": "Drive credit card and loan sales while managing a regional sales team."
+  },
+  {
+    "id": "7",
+    "title": "Nurse",
+    "company": "Apollo Hospitals",
+    "location": "Hyderabad",
+    "salary": "₹4.5 LPA",
+    "tags": ["Full-Time", "Healthcare"],
+    "description": "Provide patient care, administer medications, and assist in operations."
+  },
+  {
+    "id": "8",
+    "title": "Graphic Designer",
+    "company": "Pepperfry",
+    "location": "Bangalore",
+    "salary": "₹6 LPA",
+    "tags": ["Full-Time", "Design", "E-commerce"],
+    "description": "Design creatives for product pages, ads, and social campaigns."
+  },
+  {
+    "id": "9",
+    "title": "Hotel Manager",
+    "company": "Taj Hotels",
+    "location": "Jaipur",
+    "salary": "₹10 LPA",
+    "tags": ["Full-Time", "Hospitality"],
+    "description": "Oversee hotel operations, guest satisfaction, and staff coordination."
+  },
+  {
+    "id": "10",
+    "title": "Full Stack Developer",
+    "company": "Zoho Corp",
+    "location": "Chennai",
+    "salary": "₹8 LPA",
+    "tags": ["Full-Time", "Tech"],
+    "description": "Develop scalable web applications using JavaScript, Node.js, and MySQL."
+  }
+]
